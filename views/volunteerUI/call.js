@@ -5,7 +5,6 @@ import React, { Component } from 'react';
 import { View, StyleSheet, NativeModules, ScrollView, Text, Dimensions, TouchableOpacity } from 'react-native';
 import { RtcEngine, AgoraView } from 'react-native-agora';
 import Icon from 'react-native-vector-icons/MaterialIcons';
-import { Actions } from 'react-native-router-flux';
 
 const { Agora } = NativeModules;                  //Define Agora object as a native module
 
