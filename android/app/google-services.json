@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "170601632573",
+    "firebase_url": "https://bpas-5ad0d.firebaseio.com",
+    "project_id": "bpas-5ad0d",
+    "storage_bucket": "bpas-5ad0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170601632573:android:d6b1d5b27cf92a04e6eb54",
+        "android_client_info": {
+          "package_name": "com.yourcompany.BPAS"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170601632573-37kkqtaja1mlkh13q3qscdqfmi8vcn1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARxaNVgihrk4AfXO5Jks0YcxSgUmgmkmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170601632573-37kkqtaja1mlkh13q3qscdqfmi8vcn1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
